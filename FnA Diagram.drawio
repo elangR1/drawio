@@ -738,10 +738,10 @@
           <mxGeometry x="-763" y="148" width="101" height="54" as="geometry" />
         </mxCell>
         <mxCell id="BTZH2f3a1e98SqgAY3bE-70" value="Dashboards" style="fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-430" y="148" width="110" height="54" as="geometry" />
+          <mxGeometry x="-440" y="148" width="120" height="54" as="geometry" />
         </mxCell>
         <mxCell id="BTZH2f3a1e98SqgAY3bE-71" value="Transactions" style="fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-425" y="432" width="148" height="54" as="geometry" />
+          <mxGeometry x="-440" y="400" width="120" height="54" as="geometry" />
         </mxCell>
         <mxCell id="BTZH2f3a1e98SqgAY3bE-72" value="Reports" style="fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="326" y="1580" width="114" height="54" as="geometry" />
@@ -756,43 +756,43 @@
           <mxGeometry x="-763" y="798" width="93" height="54" as="geometry" />
         </mxCell>
         <mxCell id="BTZH2f3a1e98SqgAY3bE-76" value="Announcements" style="fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-624" y="37" width="173" height="54" as="geometry" />
+          <mxGeometry x="-622" y="37" width="173" height="54" as="geometry" />
         </mxCell>
         <mxCell id="BTZH2f3a1e98SqgAY3bE-77" value="Tasks" style="fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-620" y="113" width="97" height="54" as="geometry" />
+          <mxGeometry x="-620" y="108" width="97" height="54" as="geometry" />
         </mxCell>
         <mxCell id="BTZH2f3a1e98SqgAY3bE-78" value="Notifications" style="fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-620" y="189" width="151" height="54" as="geometry" />
+          <mxGeometry x="-620" y="179" width="151" height="54" as="geometry" />
         </mxCell>
         <mxCell id="BTZH2f3a1e98SqgAY3bE-79" value="Recent Items" style="fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-620" y="264" width="153" height="54" as="geometry" />
+          <mxGeometry x="-620" y="250" width="153" height="54" as="geometry" />
         </mxCell>
         <mxCell id="BTZH2f3a1e98SqgAY3bE-81" value="Finance Dashboard" style="fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-280" y="37" width="195" height="54" as="geometry" />
         </mxCell>
         <mxCell id="BTZH2f3a1e98SqgAY3bE-82" value="Procurement Dashboard" style="fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="108" width="231" height="54" as="geometry" />
+          <mxGeometry x="-277" y="108" width="231" height="54" as="geometry" />
         </mxCell>
         <mxCell id="BTZH2f3a1e98SqgAY3bE-83" value="HCM Dashboard" style="fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="179" width="171" height="54" as="geometry" />
+          <mxGeometry x="-277" y="179" width="171" height="54" as="geometry" />
         </mxCell>
         <mxCell id="BTZH2f3a1e98SqgAY3bE-84" value="Supply Chain Dashboard" style="fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-280" y="250" width="231" height="54" as="geometry" />
         </mxCell>
         <mxCell id="BTZH2f3a1e98SqgAY3bE-85" value="Payables" style="fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="82" y="328" width="122" height="54" as="geometry" />
+          <mxGeometry x="-280" y="318" width="122" height="54" as="geometry" />
         </mxCell>
         <mxCell id="BTZH2f3a1e98SqgAY3bE-86" value="Receivables" style="fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="71" y="432" width="144" height="54" as="geometry" />
+          <mxGeometry x="-280" y="386" width="144" height="54" as="geometry" />
         </mxCell>
         <mxCell id="BTZH2f3a1e98SqgAY3bE-87" value="Expenses" style="fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="536" width="125" height="54" as="geometry" />
+          <mxGeometry x="-280" y="454" width="125" height="54" as="geometry" />
         </mxCell>
         <mxCell id="BTZH2f3a1e98SqgAY3bE-88" value="Procurement" style="fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="67" y="640" width="152" height="54" as="geometry" />
+          <mxGeometry x="-280" y="522" width="152" height="54" as="geometry" />
         </mxCell>
         <mxCell id="BTZH2f3a1e98SqgAY3bE-89" value="Inventory" style="fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="79" y="744" width="128" height="54" as="geometry" />
+          <mxGeometry x="-280" y="590" width="128" height="54" as="geometry" />
         </mxCell>
         <mxCell id="BTZH2f3a1e98SqgAY3bE-90" value="Financial Reports" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="570" y="1476" width="183" height="54" as="geometry" />
@@ -841,8 +841,8 @@
         <mxCell id="BTZH2f3a1e98SqgAY3bE-103" value="" style="curved=1;startArrow=none;endArrow=none;endFill=0;entryX=0;entryY=0.5;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BTZH2f3a1e98SqgAY3bE-68" target="BTZH2f3a1e98SqgAY3bE-70">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-610" y="110" />
-              <mxPoint x="-460" y="90" />
+              <mxPoint x="-600" y="110" />
+              <mxPoint x="-450" y="90" />
             </Array>
             <mxPoint x="220" y="880" as="sourcePoint" />
           </mxGeometry>
@@ -850,7 +850,9 @@
         <mxCell id="BTZH2f3a1e98SqgAY3bE-104" value="" style="curved=1;startArrow=none;endArrow=circle;endFill=0;entryX=0;entryY=0.5;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BTZH2f3a1e98SqgAY3bE-68" target="BTZH2f3a1e98SqgAY3bE-71">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-900" y="370" />
+              <mxPoint x="-810" y="230" />
+              <mxPoint x="-770" y="380" />
+              <mxPoint x="-630" y="410" />
             </Array>
             <mxPoint x="155" y="918" as="sourcePoint" />
           </mxGeometry>
@@ -858,7 +860,8 @@
         <mxCell id="BTZH2f3a1e98SqgAY3bE-105" value="" style="curved=1;startArrow=none;endArrow=circle;endFill=0;exitX=0.5;exitY=1;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BTZH2f3a1e98SqgAY3bE-68" target="BTZH2f3a1e98SqgAY3bE-72">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-920" y="950" />
+              <mxPoint x="-850" y="380" />
+              <mxPoint x="-490" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -950,18 +953,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BTZH2f3a1e98SqgAY3bE-118" value="" style="curved=1;startArrow=none;endArrow=circle;endFill=0;exitX=0.62;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="BTZH2f3a1e98SqgAY3bE-71" target="BTZH2f3a1e98SqgAY3bE-85">
+        <mxCell id="BTZH2f3a1e98SqgAY3bE-118" value="" style="curved=1;startArrow=none;endArrow=circle;endFill=0;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BTZH2f3a1e98SqgAY3bE-71" target="BTZH2f3a1e98SqgAY3bE-85">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2" y="355" />
+              <mxPoint x="-290" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BTZH2f3a1e98SqgAY3bE-119" value="" style="curved=1;startArrow=none;endArrow=circle;endFill=0;exitX=0.74;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="BTZH2f3a1e98SqgAY3bE-71" target="BTZH2f3a1e98SqgAY3bE-86">
+        <mxCell id="BTZH2f3a1e98SqgAY3bE-119" value="" style="curved=1;startArrow=none;endArrow=circle;endFill=0;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BTZH2f3a1e98SqgAY3bE-71" target="BTZH2f3a1e98SqgAY3bE-86">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2" y="459" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BTZH2f3a1e98SqgAY3bE-120" value="" style="curved=1;startArrow=none;endArrow=circle;endFill=0;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="BTZH2f3a1e98SqgAY3bE-71" target="BTZH2f3a1e98SqgAY3bE-87">
@@ -969,17 +970,15 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BTZH2f3a1e98SqgAY3bE-121" value="" style="curved=1;startArrow=none;endArrow=circle;endFill=0;exitX=0.74;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="BTZH2f3a1e98SqgAY3bE-71" target="BTZH2f3a1e98SqgAY3bE-88">
+        <mxCell id="BTZH2f3a1e98SqgAY3bE-121" value="" style="curved=1;startArrow=none;endArrow=circle;endFill=0;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BTZH2f3a1e98SqgAY3bE-71" target="BTZH2f3a1e98SqgAY3bE-88">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2" y="667" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BTZH2f3a1e98SqgAY3bE-122" value="" style="curved=1;startArrow=none;endArrow=circle;endFill=0;exitX=0.62;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="BTZH2f3a1e98SqgAY3bE-71" target="BTZH2f3a1e98SqgAY3bE-89">
+        <mxCell id="BTZH2f3a1e98SqgAY3bE-122" value="" style="curved=1;startArrow=none;endArrow=circle;endFill=0;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BTZH2f3a1e98SqgAY3bE-71" target="BTZH2f3a1e98SqgAY3bE-89">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2" y="771" />
+              <mxPoint x="-310" y="540" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1064,7 +1063,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BTZH2f3a1e98SqgAY3bE-80" value="Watchlist" style="fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-620" y="340" width="126" height="54" as="geometry" />
+          <mxGeometry x="-620" y="318" width="126" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
