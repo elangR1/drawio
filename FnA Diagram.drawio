@@ -732,10 +732,46 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="BTZH2f3a1e98SqgAY3bE-68" value="Oracle Fusion Module" style="fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;glass=0;rounded=1;direction=east;shadow=1;fontStyle=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="-820" y="30" width="150" height="68" as="geometry" />
+          <mxGeometry x="-830" y="30" width="150" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="ySWdwfpPumj8cM2-jG6r-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;curved=1;" edge="1" parent="1" source="CW-TPyjh4jEctqUjwn1H-2" target="gZamvYy-Pi4nmqayB5lI-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ySWdwfpPumj8cM2-jG6r-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;curved=1;" edge="1" parent="1" source="CW-TPyjh4jEctqUjwn1H-2" target="gZamvYy-Pi4nmqayB5lI-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ySWdwfpPumj8cM2-jG6r-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;curved=1;" edge="1" parent="1" source="CW-TPyjh4jEctqUjwn1H-2" target="gZamvYy-Pi4nmqayB5lI-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ySWdwfpPumj8cM2-jG6r-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;curved=1;" edge="1" parent="1" source="CW-TPyjh4jEctqUjwn1H-2" target="gZamvYy-Pi4nmqayB5lI-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ySWdwfpPumj8cM2-jG6r-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;curved=1;" edge="1" parent="1" source="CW-TPyjh4jEctqUjwn1H-2" target="gZamvYy-Pi4nmqayB5lI-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ySWdwfpPumj8cM2-jG6r-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;curved=1;" edge="1" parent="1" source="CW-TPyjh4jEctqUjwn1H-2" target="ySWdwfpPumj8cM2-jG6r-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CW-TPyjh4jEctqUjwn1H-2" value="Financials&#xa;Phase 1" style="fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;fontStyle=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-620" y="37" width="131" height="54" as="geometry" />
+          <mxGeometry x="-660" y="200" width="131" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="gZamvYy-Pi4nmqayB5lI-1" value="General Accounting" style="fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="38" width="150" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="gZamvYy-Pi4nmqayB5lI-2" value="Payables" style="fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="170" width="150" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="gZamvYy-Pi4nmqayB5lI-3" value="Receivables" style="fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="104" width="150" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="gZamvYy-Pi4nmqayB5lI-4" value="Fixed Assets" style="fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="236" width="150" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="gZamvYy-Pi4nmqayB5lI-5" value="Cash Management" style="fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="302" width="150" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ySWdwfpPumj8cM2-jG6r-1" value="Transactional Business &#xa;Intelligence" style="text;whiteSpace=wrap;html=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=0;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="368" width="150" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
