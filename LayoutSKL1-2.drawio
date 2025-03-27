@@ -185,7 +185,7 @@
         <mxCell id="ixfWea9ak1chhluvdA83-5" value="ttd ybs" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ixfWea9ak1chhluvdA83-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ixfWea9ak1chhluvdA83-18" target="ixfWea9ak1chhluvdA83-9">
+        <mxCell id="ixfWea9ak1chhluvdA83-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ixfWea9ak1chhluvdA83-18" target="ixfWea9ak1chhluvdA83-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ixfWea9ak1chhluvdA83-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ixfWea9ak1chhluvdA83-7" target="ixfWea9ak1chhluvdA83-18">
@@ -195,7 +195,7 @@
           <mxGeometry x="220" y="210" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ixfWea9ak1chhluvdA83-9" value="Kasir" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="365" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ixfWea9ak1chhluvdA83-11" value="Eni&lt;br&gt;Operasional:&lt;br&gt;BBM&lt;br&gt;Tol&lt;br&gt;Parkir&lt;br&gt;Konsumsi&lt;br&gt;etc" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="520" width="120" height="130" as="geometry" />
@@ -224,7 +224,7 @@
           <mxGeometry x="520" y="30" width="280" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ixfWea9ak1chhluvdA83-21" value="Pembuatan" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="250" width="140" height="180" as="geometry">
+          <mxGeometry x="320" y="170" width="140" height="180" as="geometry">
             <mxRectangle x="520" y="200" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -244,7 +244,7 @@
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ixfWea9ak1chhluvdA83-25" value="Pembuatan" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="250" width="140" height="180" as="geometry" />
+          <mxGeometry x="460" y="170" width="140" height="180" as="geometry" />
         </mxCell>
         <mxCell id="ixfWea9ak1chhluvdA83-27" value="1 Jt" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ixfWea9ak1chhluvdA83-25">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -262,7 +262,7 @@
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ixfWea9ak1chhluvdA83-34" value="Realisasi" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="250" width="140" height="180" as="geometry" />
+          <mxGeometry x="600" y="170" width="140" height="180" as="geometry" />
         </mxCell>
         <mxCell id="ixfWea9ak1chhluvdA83-35" value="1200" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ixfWea9ak1chhluvdA83-34">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -280,7 +280,7 @@
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ixfWea9ak1chhluvdA83-40" value="Realisasi" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="250" width="100" height="180" as="geometry" />
+          <mxGeometry x="740" y="170" width="100" height="180" as="geometry" />
         </mxCell>
         <mxCell id="ixfWea9ak1chhluvdA83-41" value="+/-" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ixfWea9ak1chhluvdA83-40">
           <mxGeometry y="30" width="100" height="30" as="geometry" />
