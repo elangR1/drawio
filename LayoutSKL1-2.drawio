@@ -142,7 +142,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ixfWea9ak1chhluvdA83-1" value="Departemen" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
-          <mxGeometry x="40" y="40" width="120" height="80" as="geometry" />
+          <mxGeometry x="40" y="60" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ixfWea9ak1chhluvdA83-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" parent="1" source="ixfWea9ak1chhluvdA83-3" target="ixfWea9ak1chhluvdA83-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
